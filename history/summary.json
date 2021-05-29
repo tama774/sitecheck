@@ -22,19 +22,19 @@
     "url": "https://hack-le.com",
     "icon": "https://favicons.githubusercontent.com/hack-le.com",
     "slug": "hack-le",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1263,
-    "timeDay": 1081,
-    "timeWeek": 1194,
-    "timeMonth": 1263,
-    "timeYear": 1263,
+    "status": "up",
+    "uptime": "99.15%",
+    "uptimeDay": "80.32%",
+    "uptimeWeek": "97.19%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.15%",
+    "time": 1257,
+    "timeDay": 1086,
+    "timeWeek": 1183,
+    "timeMonth": 1257,
+    "timeYear": 1257,
     "dailyMinutesDown": {
-      "2021-05-29": 0
+      "2021-05-29": 283
     }
   },
   {
