@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 77,
-    "timeDay": 80,
-    "timeWeek": 81,
-    "timeMonth": 77,
-    "timeYear": 77,
+    "time": 78,
+    "timeDay": 91,
+    "timeWeek": 84,
+    "timeMonth": 78,
+    "timeYear": 78,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/hack-le.com",
     "slug": "hack-le",
     "status": "up",
-    "uptime": "99.38%",
+    "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.35%",
-    "uptimeYear": "99.38%",
-    "time": 1269,
-    "timeDay": 1639,
-    "timeWeek": 1381,
-    "timeMonth": 1257,
-    "timeYear": 1269,
+    "uptimeYear": "99.40%",
+    "time": 1263,
+    "timeDay": 1067,
+    "timeWeek": 1339,
+    "timeMonth": 1245,
+    "timeYear": 1263,
     "dailyMinutesDown": {
       "2021-05-29": 283
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 104,
-    "timeDay": 65,
-    "timeWeek": 100,
-    "timeMonth": 105,
-    "timeYear": 104,
+    "time": 105,
+    "timeDay": 156,
+    "timeWeek": 113,
+    "timeMonth": 108,
+    "timeYear": 105,
     "dailyMinutesDown": {}
   }
 ]
