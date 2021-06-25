@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 76,
-    "timeDay": 58,
-    "timeWeek": 73,
+    "timeDay": 81,
+    "timeWeek": 75,
     "timeMonth": 78,
     "timeYear": 76,
     "dailyMinutesDown": {}
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/hack-le.com",
     "slug": "hack-le",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.35%",
-    "uptimeYear": "99.60%",
-    "time": 1269,
-    "timeDay": 1526,
-    "timeWeek": 1251,
-    "timeMonth": 1242,
-    "timeYear": 1269,
+    "uptimeYear": "99.61%",
+    "time": 1264,
+    "timeDay": 990,
+    "timeWeek": 1195,
+    "timeMonth": 1240,
+    "timeYear": 1264,
     "dailyMinutesDown": {
       "2021-05-29": 283
     }
@@ -49,9 +49,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.93%",
     "time": 105,
-    "timeDay": 45,
-    "timeWeek": 91,
-    "timeMonth": 108,
+    "timeDay": 105,
+    "timeWeek": 98,
+    "timeMonth": 107,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2021-06-08": 48
