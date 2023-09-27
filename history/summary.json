@@ -15,7 +15,9 @@
     "timeWeek": 106,
     "timeMonth": 117,
     "timeYear": 107,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-27": 0
+    }
   },
   {
     "name": "hack-le",
