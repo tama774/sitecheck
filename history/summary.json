@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 224,
-    "timeWeek": 157,
-    "timeMonth": 163,
+    "timeDay": 222,
+    "timeWeek": 156,
+    "timeMonth": 162,
     "timeYear": 115,
-    "dailyMinutesDown": {
-      "2023-11-08": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "hack-le",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
     "time": 1512,
-    "timeDay": 1424,
-    "timeWeek": 1395,
-    "timeMonth": 1395,
+    "timeDay": 1427,
+    "timeWeek": 1392,
+    "timeMonth": 1394,
     "timeYear": 1524,
     "dailyMinutesDown": {
       "2023-09-28": 18,
@@ -57,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 90,
-    "timeWeek": 108,
-    "timeMonth": 112,
+    "timeDay": 110,
+    "timeWeek": 102,
+    "timeMonth": 113,
     "timeYear": 119,
     "dailyMinutesDown": {}
   }
