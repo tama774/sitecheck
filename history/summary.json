@@ -4,20 +4,18 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 341,
-    "timeWeek": 152,
-    "timeMonth": 170,
+    "timeDay": 160,
+    "timeWeek": 145,
+    "timeMonth": 167,
     "timeYear": 115,
-    "dailyMinutesDown": {
-      "2023-11-15": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "hack-le",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
-    "time": 1511,
-    "timeDay": 1488,
-    "timeWeek": 1328,
-    "timeMonth": 1382,
-    "timeYear": 1517,
+    "time": 1512,
+    "timeDay": 1454,
+    "timeWeek": 1347,
+    "timeMonth": 1393,
+    "timeYear": 1516,
     "dailyMinutesDown": {
       "2023-09-28": 18,
       "2023-06-25": 105,
@@ -56,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 119,
-    "timeDay": 79,
-    "timeWeek": 119,
-    "timeMonth": 118,
-    "timeYear": 119,
+    "time": 126,
+    "timeDay": 3589,
+    "timeWeek": 616,
+    "timeMonth": 229,
+    "timeYear": 129,
     "dailyMinutesDown": {}
   }
 ]
