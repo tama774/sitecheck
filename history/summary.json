@@ -12,7 +12,7 @@
     "uptimeYear": "99.99%",
     "time": 111,
     "timeDay": 300,
-    "timeWeek": 193,
+    "timeWeek": 208,
     "timeMonth": 131,
     "timeYear": 108,
     "dailyMinutesDown": {
@@ -24,9 +24,9 @@
     "url": "https://hack-le.com",
     "icon": "https://icons.duckduckgo.com/ip3/hack-le.com.ico",
     "slug": "hack-le",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -36,6 +36,7 @@
     "timeMonth": 1248,
     "timeYear": 1455,
     "dailyMinutesDown": {
+      "2025-01-29": 0,
       "2025-01-23": 18,
       "2024-12-28": 19,
       "2024-12-17": 17,
