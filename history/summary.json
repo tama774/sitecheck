@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 126,
-    "timeDay": 95,
-    "timeWeek": 92,
-    "timeMonth": 186,
-    "timeYear": 133,
-    "dailyMinutesDown": {}
+    "time": 127,
+    "timeDay": 302,
+    "timeWeek": 144,
+    "timeMonth": 196,
+    "timeYear": 134,
+    "dailyMinutesDown": {
+      "2025-12-12": 0
+    }
   },
   {
     "name": "hack-le",
@@ -26,7 +28,7 @@
     "uptime": "92.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.30%",
+    "uptimeMonth": "93.11%",
     "uptimeYear": "65.47%",
     "time": 986,
     "timeDay": 843,
