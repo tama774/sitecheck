@@ -11,10 +11,10 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.92%",
     "time": 140,
-    "timeDay": 110,
-    "timeWeek": 89,
-    "timeMonth": 99,
-    "timeYear": 147,
+    "timeDay": 51,
+    "timeWeek": 86,
+    "timeMonth": 98,
+    "timeYear": 146,
     "dailyMinutesDown": {
       "2026-05-08": 59,
       "2026-04-12": 173,
@@ -34,14 +34,14 @@
     "slug": "hack-le",
     "status": "up",
     "uptime": "92.88%",
-    "uptimeDay": "83.67%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.67%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "65.16%",
     "time": 930,
-    "timeDay": 529,
-    "timeWeek": 695,
-    "timeMonth": 838,
+    "timeDay": 1150,
+    "timeWeek": 747,
+    "timeMonth": 850,
     "timeYear": 803,
     "dailyMinutesDown": {
       "2026-05-18": 235,
@@ -185,8 +185,7 @@
       "2025-07-11": 369,
       "2025-06-04": 35,
       "2025-05-30": 48,
-      "2025-05-23": 34,
-      "2025-05-20": 176
+      "2025-05-23": 34
     }
   },
   {
@@ -200,10 +199,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 143,
-    "timeDay": 152,
-    "timeWeek": 135,
-    "timeMonth": 147,
+    "time": 144,
+    "timeDay": 191,
+    "timeWeek": 145,
+    "timeMonth": 148,
     "timeYear": 147,
     "dailyMinutesDown": {}
   }
