@@ -35,17 +35,17 @@
     "url": "https://hack-le.com",
     "icon": "https://icons.duckduckgo.com/ip3/hack-le.com.ico",
     "slug": "hack-le",
-    "status": "down",
-    "uptime": "93.41%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "93.40%",
+    "uptimeDay": "85.59%",
+    "uptimeWeek": "97.94%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "93.02%",
-    "time": 812,
-    "timeDay": 725,
-    "timeWeek": 947,
-    "timeMonth": 842,
-    "timeYear": 987,
+    "time": 811,
+    "timeDay": 676,
+    "timeWeek": 906,
+    "timeMonth": 834,
+    "timeYear": 986,
     "dailyMinutesDown": {
       "2025-11-14": 438,
       "2025-11-13": 1440,
@@ -85,7 +85,7 @@
       "2026-05-18": 235,
       "2026-06-09": 335,
       "2026-06-08": 352,
-      "2026-10-21": 0
+      "2026-10-21": 208
     }
   },
   {
